@@ -1,4 +1,4 @@
-#header .logo {
+.logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -28,7 +28,15 @@
   color: #404bbf;
 }
 
+.contact-list .list:focus {
+  color: #404bbf;
+}
+
 .nav-list .list:hover {
+  color: #404bbf;
+}
+
+.nav-list .list:focus {
   color: #404bbf;
 }
 
