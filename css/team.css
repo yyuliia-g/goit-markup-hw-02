@@ -1,8 +1,8 @@
-#team {
+.our-team {
   background: #f4f4fd;
 }
 
-#team h3 p {
+.our-team h3 p {
   text-align: center;
 }
 
@@ -13,7 +13,7 @@
   letter-spacing: 0.02em;
 }
 
-#team ul > li {
+.our-team ul > li {
   background: white;
 }
 
